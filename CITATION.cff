@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+authors: M.Nirushanth
+  - family-names: "Murugadas"
+    given-names: "Nirushanth"
+title: "Attention Economics in the Age of Artificial Intelligence"
+version: "1.0.0"
+date-released: 2026-09-13
+url: "https://github.com/inirushanth-png"
