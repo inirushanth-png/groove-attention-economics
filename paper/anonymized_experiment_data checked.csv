@@ -1,0 +1,21 @@
+Participant_ID,Age,Gender,Status,Daily_Short_Video_Use,A_Q1_Enjoyment,A_Q2_Rewatch,A_Q3_Like,A_Q4_Save,A_Q5_Share,A_Q6_Search_Song,A_Q7_Motivation,A_Q8_Self_Imagine,A_Q9_Similar_Videos,B_Q1_Enjoyment,B_Q2_Rewatch,B_Q3_Like,B_Q4_Save,B_Q5_Share,B_Q6_Search_Song,B_Q7_Motivation,B_Q8_Self_Imagine,B_Q9_Similar_Videos,C_Q1_Enjoyment,C_Q2_Rewatch,C_Q3_Like,C_Q4_Save,C_Q5_Share,C_Q6_Search_Song,C_Q7_Motivation,C_Q8_Self_Imagine,C_Q9_Similar_Videos,D_Q1_Enjoyment,D_Q2_Rewatch,D_Q3_Like,D_Q4_Save,D_Q5_Share,D_Q6_Search_Song,D_Q7_Motivation,D_Q8_Self_Imagine,D_Q9_Similar_Videos
+P01,12,Male,Student,<30 min,5,Probably No,No,No,No,No,3,No,4,8,Probably Yes,Yes,No,No,Yes,7,Yes,8,7,Maybe,No,No,Yes,Yes,9,Yes,6,10,Definitely Yes,No,No,Yes,Yes,9,Yes,10
+P02,16,Female,Student,30–60 min,6,Maybe,No,No,No,No,5,No,5,8,Probably Yes,Yes,No,No,No,8,A little,7,7,Probably Yes,Yes,No,No,No,8,Yes,8,8,Probably Yes,Yes,No,No,No,9,A little,7
+P03,5,Female,Student,30–60 min,4,Probably Yes,Yes,No,No,Yes,2,No,5,10,Probably No,Yes,No,Yes,Yes,5,No,4,6,Probably Yes,Yes,No,No,Yes,6,No,2,6,Probably Yes,Yes,No,Yes,Yes,8,No,5
+P04,8,Female,Student,30 min,2,Definitely No,No,No,No,No,1,No,1,6,Definitely No,No,No,No,Yes,8,No,1,8,Definitely No,No,No,No,No,8,No,2,8,Definitely Yes,No,No,No,No,10,No,5
+P05,12,Male,Student,60–100 min,7,Probably No,No,No,No,No,2,No,1,6,Probably No,No,No,No,No,5,A little,1,3,Probably No,No,No,No,No,2,No,2,8,Probably No,Yes,No,No,No,9,No,7
+P06,16,Male,Student,30–60 min,4,Definitely No,No,No,No,No,2,No,1,5,Definitely No,No,No,No,No,3,A little,1,5,Definitely No,No,No,No,No,3,No,1,7,Probably No,No,No,No,Yes,6,Yes,10
+P07,18,Male,Student,<30 min,3,Definitely No,No,No,No,No,2,A little,2,5,Maybe,No,No,No,Yes,4,A little,5,7,Probably Yes,No,No,Yes,Yes,5,Yes,8,8,Probably Yes,Yes,No,Yes,Yes,9,Yes,10
+P08,18,Male,Student,<30 min,2,Definitely No,Yes,No,No,Yes,2,A little,2,6,Maybe,No,No,No,No,4,Yes,8,4,Probably Yes,No,No,No,Yes,6,Yes,5,9,Maybe,Yes,No,No,No,8,Yes,10
+P09,19,Male,Student,1–2 hours,1,Probably Yes,Yes,No,Yes,No,1,No,4,4,Probably No,No,Yes,Yes,Yes,2,Yes,2,3,Definitely No,No,No,No,No,4,Yes,9,2,Definitely Yes,No,Yes,Yes,Yes,4,No,10
+P10,20,Male,Student,1–2 hours,5,Probably No,Yes,No,No,No,4,No,1,6,Probably Yes,No,No,Yes,Yes,6,Yes,4,7,Definitely Yes,Yes,No,No,No,7,Yes,6,8,Definitely No,Yes,Yes,Yes,Yes,8,No,9
+P11,15,Female,Student,2–4 hours,10,Maybe,Yes,No,Yes,No,2,A little,9,8,Definitely Yes,Yes,No,Yes,No,6,No,8,9,Probably Yes,No,No,No,No,5,Yes,6,10,Definitely No,Yes,Yes,No,Yes,9,Yes,5
+P12,26,Female,Work,<30 min,1,Maybe,Yes,No,No,No,5,Yes,1,6,Maybe,Yes,Yes,No,No,6,Yes,2,4,Maybe,No,Yes,No,Yes,9,A little,6,3,Maybe,Yes,No,Yes,Yes,10,No,4
+P13,21,Male,Student,1–2 hours,1,Maybe,No,Yes,Yes,No,1,A little,2,2,Probably No,No,Yes,Yes,No,4,No,7,6,Probably Yes,No,No,No,No,6,No,8,4,Definitely Yes,Yes,Yes,Yes,Yes,10,Yes,9
+P14,22,Male,Student,2–4 hours,1,Definitely Yes,No,No,No,No,1,No,2,4,Maybe,No,No,No,No,3,No,6,3,Maybe,No,No,No,No,6,A little,7,9,Definitely No,Yes,No,Yes,Yes,7,Yes,8
+P15,13,Male,Student,<30 min,1,Definitely No,Yes,No,No,Yes,1,A little,6,2,Probably Yes,Yes,Yes,No,No,4,No,7,4,Probably No,No,Yes,Yes,No,6,No,8,8,Maybe,No,No,No,No,8,Yes,10
+P16,32,Male,Work,30–60 min,3,Probably No,No,No,No,Yes,1,A little,4,6,Probably No,Yes,No,No,No,2,No,6,9,Definitely No,No,No,No,No,3,Yes,7,12,Maybe,Yes,Yes,Yes,Yes,6,Yes,9
+P17,10,Male,Student,3 hours,4,Definitely No,No,Yes,Yes,No,2,No,3,8,Definitely No,No,Yes,No,No,4,Yes,4,6,Definitely No,No,Yes,Yes,Yes,6,Yes,5,10,Definitely No,Yes,Yes,Yes,Yes,9,No,6
+P18,19,Male,Student,<30 min,1,Definitely No,Yes,No,Yes,No,1,A little,2,2,Maybe,Yes,Yes,No,No,2,No,3,5,Definitely No,Yes,No,Yes,No,4,Yes,7,7,Definitely Yes,Yes,Yes,No,No,6,No,9
+P19,17,Female,Student,<30 min,2,Maybe,Yes,No,No,No,2,No,1,6,Probably No,No,Yes,No,No,4,Yes,3,7,Maybe,No,Yes,No,No,6,A little,9,6,Definitely Yes,No,Yes,No,No,8,Yes,10
+P20,23,Female,Work,<1 hour,6,Definitely No,No,Yes,Yes,No,1,No,3,5,Maybe,No,Yes,Yes,No,2,No,6,7,Maybe,No,Yes,Yes,No,3,A little,9,9,Maybe,No,Yes,Yes,Yes,4,Yes,10
